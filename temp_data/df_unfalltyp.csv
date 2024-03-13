@@ -1,0 +1,8 @@
+Unfalltyp_ID,Unfalltyp
+1, Fahrunfall
+2, Abbiegeunfall
+3, Einbiegen / Kreuzen-Unfall
+4, Überschreiten-Unfall
+5, Unfall durch ruhenden Verkehr
+6, Unfall im Längsverkehr
+7, sonstiger Unfall
