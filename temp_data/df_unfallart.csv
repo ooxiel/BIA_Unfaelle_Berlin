@@ -1,11 +1,3 @@
-Unfallart_ID,Unfallart
-1, Unfall anderer Art
-2, Zusammenstoß mit anfahrendem/anhaltendem/ ruhendem Fahrzeug
-3, Zusammenstoß mit vorausfahrendem/wartendem Fahrzeug
-4, Zusammenstoß mit seitlich in gleicher Richtung fahrendem Fahrzeug
-5, Zusammenstoß mit entgegenkommendem Fahrzeug
-6, Zusammenstoß mit einbiegendem/ kreuzendem Fahrzeug
-7, Zusammenstoß zwischen Fahrzeug und Fußgänger
-8, Aufprall auf Fahrbahnhindernis
-9, Abkommen von Fahrbahn nach rechts
-10, Abkommen von Fahrbahn nach links
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f2d3d1ba4bbaa5f0e284f309c577a71aaba2943dbc354b618daf9a983255ec3
+size 497

@@ -1,13 +1,3 @@
-Bezirk_ID,Bezirk
-01,Mitte
-02,Friedrichshain-Kreuzberg
-03,Pankow
-04,Charlottenburg-Wilmersdorf
-05,Spandau
-06,Steglitz-Zehlendorf
-07,Tempelhof-Schöneberg
-08,Neukölln
-10,Marzahn-Hellersdorf
-09,Treptow-Köpenick
-12,Reinickendorf
-11,Lichtenberg
+version https://git-lfs.github.com/spec/v1
+oid sha256:cada466d9068851ac8460b4658b4ac83a241d7b821bef728cdcaa2fa784c58ba
+size 242

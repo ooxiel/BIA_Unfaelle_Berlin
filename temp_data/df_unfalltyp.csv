@@ -1,8 +1,3 @@
-Unfalltyp_ID,Unfalltyp
-1, Fahrunfall
-2, Abbiegeunfall
-3, Einbiegen / Kreuzen-Unfall
-4, Überschreiten-Unfall
-5, Unfall durch ruhenden Verkehr
-6, Unfall im Längsverkehr
-7, sonstiger Unfall
+version https://git-lfs.github.com/spec/v1
+oid sha256:d52bbacff13c40ea912f4f8d795998e629cf3bae944fb1d4267f61a2fee0b0f4
+size 189
